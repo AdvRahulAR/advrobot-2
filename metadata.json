@@ -1,0 +1,7 @@
+{
+  "name": "AdvRobot",
+  "description": "An advanced AI-powered cybersecurity, research, and legal assistant platform.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
